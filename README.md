@@ -190,12 +190,13 @@ Educational resource for learning Oracle SCM flows.
 Built with:
 - [Streamlit](https://streamlit.io/) - Web application framework
 - [Google Gemini AI](https://ai.google.dev/) - Large language model
-- Oracle Documentation - Business process knowledge
+- Oracle Documentation - [Business process knowledge](https://docs.oracle.com/search/?q=SCM)
 
 ---
 
 **Version**: 1.0  
 **Last Updated**: January 2026  
 **Status**: Active Development
+
 
 

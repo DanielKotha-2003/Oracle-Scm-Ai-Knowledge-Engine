@@ -130,19 +130,6 @@ The platform covers explanations involving:
 - **Manufacturing**: WIP_ENTITIES, WIP_JOB_SCHEDULE_INTERFACE
 - **Financials**: AP_INVOICES_ALL, AR_TRANSACTION_HISTORY_ALL
 
-### Response Format
-All responses follow a structured JSON format:
-```json
-{
-  "simple_definition": "...",
-  "business_context": "...",
-  "key_oracle_tables": ["TABLE1", "TABLE2"],
-  "flow_context": {
-    "previous_step": "...",
-    "next_step": "..."
-  }
-}
-```
 
 ## 🎯 Tone & Approach
 
@@ -153,7 +140,7 @@ All responses follow a structured JSON format:
 
 ## 🤖 AI Engine
 
-- **Model**: Google Gemini 2.0 Flash
+- **Model**: Google Gemini 2.5 Flash
 - **Capabilities**: 
   - Natural language understanding of Oracle SCM concepts
   - Contextual explanations based on selected flow
@@ -210,4 +197,5 @@ Built with:
 **Version**: 1.0  
 **Last Updated**: January 2026  
 **Status**: Active Development
+
 

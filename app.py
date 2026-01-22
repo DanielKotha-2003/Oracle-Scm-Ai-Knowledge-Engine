@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("🏢 Oracle SCM Learning Platform")
+st.title("Oracle Scm AI Knowledge Engine")
 st.markdown("*Expert guidance on Oracle EBS and Fusion Cloud business flows*")
 
 # ============================================================================
@@ -227,8 +227,10 @@ st.markdown(
     """
     <div style='text-align: center; color: gray; font-size: 12px;'>
     <p>Oracle SCM Learning Platform v1.0 | Powered by Google Gemini</p>
+    <p>Developer - Daniel.K</p>
     <p>Educational resource for understanding Oracle EBS and Fusion Cloud</p>
     </div>
     """,
     unsafe_allow_html=True
 )
+
